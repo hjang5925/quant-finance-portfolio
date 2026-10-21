@@ -1,25 +1,53 @@
 # Quant Finance Roadmap
 
-## Project 1
-ETF Analyzer
-
+## Project 1: ETF Analyzer
 Status: Complete
 
-## Project 2
-Portfolio Optimization
+Features:
+- Historical Data Download
+- Return Analysis
+- Volatility Analysis
+- Sharpe Ratio Analysis
+- Performance Visualization
+
+---
+
+## Project 2: Portfolio Optimization
 Status: in-progress
 
-## Project 3
-Option Pricing
+Planned Features:
+- Modern Portfolio Theory
+- Efficient Frontier
+- Sharpe Ratio Optimization
+- Optimal Allocation
 
+---
+
+## Project 3: Option Pricing
 Status: Planned
 
-## Project 4
-Statistical Arbitrage
+Planned Features:
+- Black-Scholes Model
+- Greeks Analysis
+- Monte Carlo Pricing
 
+---
+
+## Project 4: Statistical Arbitrage
 Status: Planned
 
-## Project 5
-Factor Investing
+Planned Features:
+- Pairs Trading
+- Cointegration Analysis
+- Backtesting
 
+---
+
+## Project 5: Factor Investing
 Status: Planned
+
+Planned Features:
+- Momentum Factor
+- Value Factor
+- Quality Factor
+- Performance Comparison
