@@ -1,53 +1,122 @@
 # Quant Finance Portfolio
 
-Hi, I'm Rachel
+## Overview
 
-I have a background in Computational Data Science and an interest in Quantitative Finance.
+This repository contains a collection of quantitative finance projects developed to strengthen skills in:
 
-This repository documents my learning journey and projects in quantitative finance.
+- Quantitative Finance
+- Portfolio Management
+- Financial Engineering
+- Risk Analysis
+- Algorithmic Trading
+- Python Programming
+
+The goal of this portfolio is to build practical experience in financial modeling, data analysis, optimization, and quantitative research.
 
 ---
-## Planned Projects
 
-### Portfolio Optimization
+## Roadmap
+
+### Project 1: ETF Analyzer ✅
+
+Status: Complete
+
+Features:
+
+- Historical Data Download
+- Return Analysis
+- Volatility Analysis
+- Sharpe Ratio Analysis
+- Performance Visualization
+
+---
+
+### Project 2: Portfolio Optimization 🚧
+
+Status: In Progress
+
+Planned Features:
+
 - Modern Portfolio Theory
 - Efficient Frontier
 - Sharpe Ratio Optimization
-
-### Statistical Arbitrage
-- Pairs Trading
-- Cointegration Analysis
-- Backtesting
-
-### Option Pricing
-- Black-Scholes Model
-- Greeks Analysis
-- Monte Carlo Simulation
-
-### Volatility Surface
-- Implied Volatility
-- Volatility Smile
-- Surface Visualization
-
-### Factor Investing
-- Momentum Factor
-- Value Factor
-- Quality Factor
+- Optimal Asset Allocation
 
 ---
 
-## Skills
+### Project 3: Option Pricing
+
+Status: Planned
+
+Planned Features:
+
+- Black-Scholes Model
+- Greeks Analysis
+- Monte Carlo Pricing
+
+---
+
+### Project 4: Statistical Arbitrage
+
+Status: Planned
+
+Planned Features:
+
+- Pairs Trading
+- Cointegration Analysis
+- Strategy Backtesting
+
+---
+
+### Project 5: Factor Investing
+
+Status: Planned
+
+Planned Features:
+
+- Momentum Factor
+- Value Factor
+- Quality Factor
+- Factor Performance Comparison
+
+---
+
+## Repository Structure
+
+```text
+quant-finance-portfolio
+│
+├── ETF_Analyzer
+├── Portfolio_Optimization
+├── Option_Pricing
+├── Statistical_Arbitrage
+└── Factor_Investing
+```
+
+---
+
+## Technologies
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- Statistics
-- Machine Learning
-- Financial Modeling
+- yfinance
 
 ---
 
-## Status
+## Long-Term Goal
 
-🟡 Currently Building
+Develop a comprehensive quantitative finance portfolio covering:
+
+- Asset Analysis
+- Portfolio Construction
+- Risk Management
+- Derivatives Pricing
+- Quantitative Trading Strategies
+
+---
+
+## Author
+
+Hyejin Jang
