@@ -1,14 +1,13 @@
 # Quant Finance Roadmap
 
 ## Project 1
-Portfolio Optimization
+ETF Analyzer
 
-Status: Planned
+Status: Complete
 
 ## Project 2
-Statistical Arbitrage
-
-Status: Planned
+Portfolio Optimization
+Status: in-progress
 
 ## Project 3
 Option Pricing
@@ -16,7 +15,7 @@ Option Pricing
 Status: Planned
 
 ## Project 4
-Volatility Surface
+Statistical Arbitrage
 
 Status: Planned
 
