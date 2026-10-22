@@ -31,9 +31,9 @@ Features:
 
 ---
 
-### Project 2: Portfolio Optimization 🚧
+### Project 2: Portfolio Optimization ✅
 
-Status: In Progress
+Status: Complete
 
 Planned Features:
 
@@ -46,7 +46,7 @@ Planned Features:
 
 ### Project 3: Option Pricing
 
-Status: Planned
+Status: in-progress
 
 Planned Features:
 
