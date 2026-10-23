@@ -44,9 +44,9 @@ Planned Features:
 
 ---
 
-### Project 3: Option Pricing
+### Project 3: Option Pricing ✅
 
-Status: in-progress
+Status: Complete
 
 Planned Features:
 
@@ -56,9 +56,9 @@ Planned Features:
 
 ---
 
-### Project 4: Statistical Arbitrage
+### Project 4: Statistical Arbitrage 
 
-Status: Planned
+Status: in-progress
 
 Planned Features:
 
